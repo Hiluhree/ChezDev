@@ -1,4 +1,5 @@
 # ChezDev
-My Projects Field
+My Landing Page
 
-Hello there, My Name is Hillary Cheserek. I love coding and it is my passion. It is my pleasure to join the great family of coders in order to assist each other to take technology to the next level.
+Hello there, This is the Landing Page for Hillary Cheserek.
+This is just but an html landing page for learning purposes
