@@ -760,7 +760,7 @@ h1.section-title {
     }
     /* End header */
     #services .service-bottom .service-item {
-        flex-basis: 22%;
+        flex-basis: 45%;
         margin: 1.5%;
     }
     
